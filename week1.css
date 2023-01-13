@@ -1,0 +1,17 @@
+body {
+	background-image: url(parlor.jpg);
+	font-family: comic sans-serif;
+	}
+div {
+	background-color: rgba(255, 192, 203, 0.7);
+}
+#gallery {
+	display: inline-flex;
+	justify-content: center;
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-size: 20px;
+}
